@@ -43,7 +43,7 @@ body.dark {
 
 .profile img {
   width: 120px;
-  border-radius: 50%;
+  border-radius: 0%;
   margin-bottom: 10px;
 }
 
